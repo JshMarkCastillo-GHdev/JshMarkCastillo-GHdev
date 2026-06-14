@@ -41,5 +41,6 @@ I'm an entry-level **Full Stack Developer** focused on building clean, high-perf
 ---
 
 ### 📫 Connect with Me
-*   **Work Location:** Pasig / Ortigas, Philippines 🇵🇭
+*   **Work Location:** Antipolo / Rizal, Philippines 🇵🇭
 *   **Framework Interactivity:** Currently exploring local LLM integration and reactive cross-platform systems.
+*   **View my Portfolio:** https://joshua-fs-dev.vercel.app/

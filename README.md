@@ -1,6 +1,6 @@
 # Hi there, I'm Joshua! 👋
 
-I'm an entry-level **Full Stack Developer** focused on building clean, high-performance web applications and robust enterprise modules. I love breaking down complex business requirements into intuitive user experiences.
+I'm a **Software Engineer** focused on building clean, high-performance web applications and robust enterprise modules. I love breaking down complex business requirements into intuitive user experiences.
 
 ---
 
